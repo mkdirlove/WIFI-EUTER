@@ -12,6 +12,15 @@ A simple tool that can be use to deauth a single client or all clients on your n
 - Deauth all channels
 - Spam fake AP
 
+# TESTED ON
+
+<table>
+    <tr>
+    <tr>
+        <td>Parrot Security OS</td>
+        <td> 5.5.0 </td>
+    </tr>
+</table>
 
 # REQUIREMENTS
 
@@ -26,25 +35,15 @@ A simple tool that can be use to deauth a single client or all clients on your n
 
 Dependencies will be automatically installed.
 
-    `$ git clone https://github.com/mkdirlove/WIFI-EUTER`
+    $ git clone https://github.com/mkdirlove/WIFI-EUTER
     
-    `$ cd WIFI-EUTER '
+    $ cd WIFI-EUTER 
     
-    `$ chmod +x *`
+    $ chmod +x *
     
-    `$ sudo ./installer.sh`
+    $ sudo ./installer.sh
     
-    `$ sudo wifi-euter.sh`
+    $ sudo wifi-euter.sh
 
-
-# TESTED ON
-
-<table>
-    <tr>
-    <tr>
-        <td>Parrot Security OS</td>
-        <td> 5.5.0 </td>
-    </tr>
-</table>
 
 
