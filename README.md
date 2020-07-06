@@ -18,7 +18,7 @@ A simple tool that can be use to deauth a single client or all clients on your n
     <tr>
     <tr>
         <td>Parrot Security OS</td>
-        <td> 5.5.0 </td>
+        <td> 4.9 </td>
     </tr>
 </table>
 
