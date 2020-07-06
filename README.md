@@ -2,17 +2,18 @@
 <br/>
 <br/>
 A simple tool that can be use to deauth a single client or all clients on your network.
-![FIRST RUN](https://github.com/mkdirlove/WIFI-EUTER/blob/master/euter.png)
+
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WIFI-EUTER/blob/master/euter.png)
+
 
 # FEATURES
-=
+
 - Deauth all clients
 - Deauth all channels
 - Spam fake AP
 
 
 # REQUIREMENTS
-=
 
 - mdk3
 - nmcli
@@ -22,7 +23,7 @@ A simple tool that can be use to deauth a single client or all clients on your n
 
 
 # INSTALATION & USAGE
-=
+
 Dependencies will be automatically installed.
 
     `$ git clone https://github.com/mkdirlove/WIFI-EUTER`
@@ -37,7 +38,6 @@ Dependencies will be automatically installed.
 
 
 # TESTED ON
-=
 
 <table>
     <tr>
