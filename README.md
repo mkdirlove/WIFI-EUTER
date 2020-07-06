@@ -33,8 +33,6 @@ A simple tool that can be use to deauth a single client or all clients on your n
 
 # INSTALATION & USAGE
 
-Dependencies will be automatically installed.
-
     $ git clone https://github.com/mkdirlove/WIFI-EUTER
     
     $ cd WIFI-EUTER 
