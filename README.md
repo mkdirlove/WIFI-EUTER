@@ -1,10 +1,9 @@
 # WIFI-EUTER
-<br/>
-# REQUESTED BY: Reiden Tubigan
-<br/>
-<br/>
+# 
+# REQUESTED BY : Reiden Tubigan
+#
 A simple tool that can be use to deauth a single client or all clients on your network.
-
+#
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WIFI-EUTER/blob/master/euter.png)
 
 
