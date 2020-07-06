@@ -8,11 +8,14 @@ A simple tool that can be use to deauth a single client or all clients on your n
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WIFI-EUTER/blob/master/euter.png)
 
 
+
 # FEATURES
 
 - Deauth all clients
 - Deauth all channels
 - Spam fake AP
+
+
 
 # TESTED ON
 
@@ -23,6 +26,8 @@ A simple tool that can be use to deauth a single client or all clients on your n
         <td> 4.9 </td>
     </tr>
 </table>
+
+
 
 # REQUIREMENTS
 
