@@ -83,4 +83,4 @@ chk_dep () {
 
 super_user
 chk_dep
-echo " [✔] All weapons are ready!"
+echo " [✔] All dependencies are ready!"
