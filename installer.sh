@@ -1,3 +1,86 @@
-z="
-";lDz='er .';kDz='anag';vDz='mana';SBz='UENA';JCz='1';ZCz='epen';fBz=']]; ';jCz='c Ju';ODz='" >>';gz=' ╚══';aCz='deci';xDz='-y';ADz='ll 2';pBz='lant';ABz='███╔';TDz='nf';REz='dep';AEz='ccha';Lz='   █';cDz='cli ';nDz=' "nm';MCz='pend';xCz=' /de';TCz='slee';WCz='!]Ch';fDz='ull ';bCz='es .';WDz='apt ';uz='█╗  ';Jz='    ';lBz='R" |';Xz='║███';cCz='....';wDz='ger ';hCz=' "# ';HBz='═╝╚═';UBz='URA"';OEz='y';Uz='════';dDz='> /d';yCz='v/nu';hBz=' " [';CDz='[ $?';XCz='ecki';nBz='let ';cBz='EUID';Bz='1() ';tBz='This';uDz='ork-';CBz='║  █';sBz='!!! ';DDz=' -eq';FDz=']; t';EEz='null';oCz='rele';rBz='RROR';RDz='ncie';bz='══╝ ';Yz=' ██║';TEz='ll w';az='██╗█';HDz=' " M';kBz='EUTE';RBz='AN B';rCz='denc';dCz='."';SCz='n';Fz='echo';Cz='{';BEz='nger';KBz='CODE';VBz='}';SDz='s.co';QEz='er';mCz='ed Y';vBz='ipt ';wCz='k3 >';iDz='etwo';GCz='chk_';LDz=' "md';pDz='s" >';Mz='█╗██';MEz='macc';tDz='netw';tCz='conf';VCz='else';MBz=': JA';WEz='re r';qCz='>> d';FEz=' 2>&';Zz='██║█';ZDz='mdk3';cz='╚███';kCz='st D';LBz='D BY';UDz='.. ✘';WBz='supe';Nz='╗███';sDz='"';YCz='ng D';PBz='RILL';Iz='"   ';gCz='onf';yDz='h ma';pCz='ss" ';RCz=' the';GEz='AC C';sCz='ies.';uBz=' scr';eCz='touc';gBz='then';jz='╝╚═╝';Wz='█╗ █';vz='║   ';xz='═╝  ';LCz=' "de';rDz='. ✘]';oBz='-f s';DBz='█║  ';NCz='enci';LEz='es" ';aBz='if [';NEz='er -';JBz=' "  ';kz=' ╚═╝';BCz='oot.';FBz='╚═╝ ';TBz='VENT';JDz='.. [';iz='╝ ╚═';FCz='fi';vCz='h md';qDz='> de';iCz='4WSe';IEz=']\n"';OBz=' CAB';qBz=' " E';XDz='inst';DEz='dev/';ez='╔╝██';bBz='[ "$';gDz='2>&1';XEz='eady';GBz='  ╚═';BBz='╝   ';UCz='p 1';YDz='all ';Sz='█║██';oz='██╔═';qz='║╚══';Pz='╗██╗';tz='╔══█';lCz='ropp';ZBz=' {';KCz='[ -f';QDz='ende';nz='╗   ';QBz='AS S';VDz=']"';lz='███╗';fz='║██║';ICz='() {';wBz='must';nCz='o Wi';NDz=' yes';pz='═══╝';Az='logo';NBz='YSON';PEz='p 5';SEz='✔] A';mBz=' fig';EBz='╚═══';bDz='h nm';Hz=' -e ';iBz='!] W';CEz=' > /';Kz='██╗ ';HCz='dep ';xBz=' be ';JEz=' "ma';yBz='run ';Ez='r';jBz='IFI-';Qz=' "';ECz=' 1';DCz='exit';mz='  ██';YEz='!"';wz='╔╝  ';QCz=' ]];';XBz='r_us';UEz='eapo';PCz='onf"';Oz='████';Gz=' ""';hz='╝╚══';aDz=' -y';eBz='e 0 ';GDz='hen';mDz='. [✔';OCz='es.c';PDz=' dep';ACz='as r';IDz='DK3 ';Vz='╝██║';YBz='er()';Dz='clea';CCz='" >';HEz='hang';IBz='╝  ╚';yz='╔══╝';fCz='h de';dBz='" -n';EDz=' 0 ]';Rz='██║ ';MDz='k3 =';uCz='whic';oDz='= ye';KDz='✔]"';rz='═╝██';hDz=' " N';KEz=' = y';dz='╔███';jDz='rk M';VEz='ns a';Tz='║██╔';BDz='>&1';sz='╔═══';eDz='ev/n';
-eval "$Az$Bz$Cz$z$Dz$Ez$z$Fz$Gz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$Rz$Lz$Sz$Tz$Uz$Vz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$Rz$Wz$Sz$Xz$Kz$Yz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$Zz$az$Sz$Tz$bz$Yz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$cz$dz$ez$fz$Jz$Yz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Jz$Jz$gz$hz$iz$jz$Jz$kz$Jz$Jz$Jz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Oz$lz$Kz$mz$Nz$Oz$Mz$Oz$Mz$Oz$nz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$oz$pz$Rz$mz$qz$oz$rz$sz$rz$tz$uz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Oz$uz$Rz$mz$vz$Rz$mz$lz$mz$Oz$wz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$oz$xz$Rz$mz$vz$Rz$mz$yz$mz$tz$uz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$Oz$lz$cz$ABz$BBz$Rz$mz$Oz$Mz$CBz$DBz$Jz$Qz$z$Fz$Hz$Iz$Jz$Jz$Jz$EBz$pz$gz$pz$Jz$FBz$GBz$Uz$HBz$IBz$xz$Jz$Qz$z$Fz$Gz$z$Fz$JBz$Jz$Jz$Jz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$z$Fz$Gz$z$Fz$Gz$z$VBz$z$WBz$XBz$YBz$ZBz$z$aBz$bBz$cBz$dBz$eBz$fBz$gBz$z$Dz$Ez$z$Fz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$Fz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$DCz$ECz$z$FCz$z$VBz$z$GCz$HCz$ICz$z$Dz$Ez$z$Az$JCz$z$aBz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$z$TCz$UCz$z$VCz$z$Fz$hBz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$cCz$dCz$z$Fz$Gz$z$eCz$fCz$MCz$NCz$OCz$gCz$z$Fz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$ZCz$rCz$sCz$tCz$z$TCz$UCz$z$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$aBz$CDz$DDz$EDz$FDz$GDz$z$Fz$HDz$IDz$cCz$cCz$JDz$KDz$z$Fz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$VCz$z$Fz$HDz$IDz$cCz$cCz$UDz$VDz$z$TCz$UCz$z$WDz$XDz$YDz$ZDz$aDz$z$FCz$z$uCz$bDz$cDz$dDz$eDz$fDz$gDz$z$aBz$CDz$DDz$EDz$FDz$GDz$z$Fz$hDz$iDz$jDz$kDz$lDz$cCz$cCz$mDz$VDz$z$Fz$nDz$cDz$oDz$pDz$qDz$MCz$NCz$OCz$gCz$z$VCz$z$Fz$hDz$iDz$jDz$kDz$lDz$cCz$cCz$rDz$sDz$z$TCz$UCz$z$WDz$XDz$YDz$tDz$uDz$vDz$wDz$xDz$z$FCz$z$uCz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$JCz$z$aBz$CDz$DDz$EDz$FDz$GDz$z$Fz$HDz$GEz$HEz$lDz$cCz$cCz$mDz$IEz$z$Fz$JEz$AEz$BEz$KEz$LEz$qCz$ZCz$rCz$sCz$tCz$z$VCz$z$Fz$HDz$GEz$HEz$lDz$cCz$cCz$rDz$sDz$z$TCz$UCz$z$WDz$XDz$YDz$MEz$HEz$NEz$OEz$z$FCz$z$TCz$PEz$z$FCz$z$VBz$z$WBz$XBz$QEz$z$GCz$REz$z$Fz$hBz$SEz$TEz$UEz$VEz$WEz$XEz$YEz"
+#!/bin/bash
+
+# Function for displaying logo1
+logo1() {
+clear
+echo ""
+echo -e "                       ██╗    ██╗██╗███████╗██╗                 "    
+echo -e "                       ██║    ██║██║██╔════╝██║                 " 
+echo -e "                       ██║ █╗ ██║██║█████╗  ██║                 "
+echo -e "                       ██║███╗██║██║██╔══╝  ██║                 "
+echo -e "                       ╚███╔███╔╝██║██║     ██║                 "
+echo -e "                        ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝                 "                          
+echo -e "               ███████╗██╗   ██╗████████╗███████╗██████╗        "
+echo -e "               ██╔════╝██║   ██║╚══██╔══╝██╔════╝██╔══██╗       "
+echo -e "               █████╗  ██║   ██║   ██║   █████╗  ██████╔╝       "
+echo -e "               ██╔══╝  ██║   ██║   ██║   ██╔══╝  ██╔══██╗       "
+echo -e "               ███████╗╚██████╔╝   ██║   ███████╗██║  ██║       "
+echo -e "               ╚══════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝       "
+echo ""
+echo "              CODED BY: JAYSON CABRILLAS SAN BUENAVENTURA"
+echo ""
+echo ""
+}
+
+# Check if running as root.
+super_user() {
+  if [[ "$EUID" -ne 0 ]]; then
+    clear
+    echo " [!] WIFI-EUTER" | figlet -f slant
+    echo " ERROR!!! This script must be run as root." >
+    exit 1
+  fi
+}
+
+# Dependencies
+chk_dep () {
+	clear
+	logo1
+	if [[ -f "dependencies.conf" ]]; then
+		sleep 1
+	else
+		echo " [!]Checking Dependecies .........."
+		echo ""
+		touch dependencies.conf
+		echo "# 4WSec Just Dropped Yo Wireless" >> dependencies.conf
+		sleep 1
+
+		# Checking MDK3
+		which mdk3 > /dev/null 2>&1
+		if [[ $? -eq 0 ]]; then
+			echo " MDK3 .......... [✔]"
+			echo "mdk3 = yes" >> dependencies.conf
+		else
+			echo " MDK3 .......... ✘]"
+			sleep 1
+			apt install mdk3 -y
+		fi
+
+		# Checking Network Manager
+		which nmcli > /dev/null 2>&1
+		if [[ $? -eq 0 ]]; then
+			echo " Network Manager .......... [✔]"
+			echo "nmcli = yes" >> dependencies.conf
+		else
+			echo " Network Manager .......... ✘]"
+			sleep 1
+			apt install network-manager -y
+		fi
+
+		# Checking MAC Changer
+		which macchanger > /dev/null 2>&1
+		if [[ $? -eq 0 ]]; then
+			echo " MAC Changer .......... [✔]\n"
+			echo "macchanger = yes" >> dependencies.conf
+		else
+			echo " MAC Changer .......... ✘]"
+			sleep 1
+			apt install macchanger -y
+		fi
+		sleep 5		
+	fi
+}
+
+super_user
+chk_dep
+echo " [✔] All weapons are ready!"
