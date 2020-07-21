@@ -27,7 +27,7 @@ super_user() {
   if [[ "$EUID" -ne 0 ]]; then
     clear
     echo " [!] WIFI-EUTER" | figlet -f slant
-    echo " ERROR!!! This script must be run as root." >
+    echo " ERROR!!! This script must be run as root."
     exit 1
   fi
 }
